@@ -1,0 +1,79 @@
+
+./NinetyNineProblems-1.hs,379
+data ListItem ListItem1,2
+data ListItem a = Multiple Multiple1,2
+data ListItem a = Multiple Int a | Single Single1,2
+pack''' pack'''3,4
+pack''' pack'''4,5
+encodeModified encodeModified10,11
+encodeModified encodeModified11,12
+decodeModified decodeModified18,19
+decodeModified decodeModified19,20
+encodeDirect encodeDirect25,26
+encodeDirect encodeDirect26,27
+
+./NinetyNineProblems-0.hs,1816
+last' last'1,2
+last' last'2,3
+last'' last''6,7
+last'' last''7,8
+lastButOne lastButOne10,11
+lastButOne lastButOne11,12
+lastButOne' lastButOne'16,17
+lastButOne' lastButOne'17,18
+lastButOne'' lastButOne''19,20
+lastButOne'' lastButOne''20,21
+elementAt elementAt23,24
+elementAt elementAt24,25
+elementAt' elementAt'26,27
+elementAt' elementAt'27,28
+elementAt'' elementAt''33,34
+elementAt'' elementAt''34,35
+myLength myLength39,40
+myLength myLength40,41
+myLength' myLength'43,44
+myLength'' myLength''45,46
+myLength'' myLength''46,47
+myLength''' myLength'''51,52
+myLength''' myLength'''52,53
+myLength'''' myLength''''54,55
+myLength'''' myLength''''55,56
+myReverse myReverse58,59
+myReverse myReverse59,60
+myReverse' myReverse'61,62
+myReverse' myReverse'62,63
+myReverse'' myReverse''66,67
+myReverse'' myReverse''67,68
+myReverse''' myReverse'''69,70
+myReverse''' myReverse'''70,71
+isPalindrome isPalindrome76,77
+isPalindrome isPalindrome77,78
+isPalindrome' isPalindrome'83,84
+isPalindrome' isPalindrome'84,85
+data NestedList NestedList87,88
+data NestedList a = Elem Elem87,88
+data NestedList a = Elem a | List List87,88
+testData testData88,89
+myFlatten myFlatten89,90
+myFlatten myFlatten90,91
+testList testList95,96
+compress compress96,97
+compress compress97,98
+compress' compress'103,104
+compress' compress'104,105
+compress'' compress''110,111
+compress'' compress''111,112
+compress''' compress'''113,114
+compress''' compress'''114,115
+pack' pack'117,118
+pack' pack'118,119
+pack'' pack''122,123
+pack'' pack''123,124
+pack''' pack'''127,128
+pack''' pack'''128,129
+encode encode135,136
+encode encode136,137
+encode' encode'138,139
+encode' encode'139,140
+encode'' encode''141,142
+encode'' encode''142,143
